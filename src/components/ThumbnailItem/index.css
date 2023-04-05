@@ -1,0 +1,20 @@
+/* Write your code here. */
+.each-thumbnail {
+  height: 80px;
+  border: none;
+  width: 80px;
+}
+
+.thumbnail-opacity-hidden {
+  height: 80px;
+  opacity: 0.5;
+  width: 80px;
+}
+
+.image {
+  background-size: cover;
+  margin-right: 5px;
+  cursor: pointer;
+  outline: none;
+  outline-offset: ;
+}
